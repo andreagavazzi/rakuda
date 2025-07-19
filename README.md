@@ -1,5 +1,7 @@
 # Rakuda
 
+Rakuda, is an integrated platform specifically designed for data collection and operation training.
+It features 31 degrees of freedom, including a 6-DOF dexterous hand and a 3-DOF waist, purpose-built for human-like manipulation tasks.
 
 
 
