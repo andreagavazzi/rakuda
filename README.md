@@ -23,8 +23,3 @@ Echo is more than just a robot—it’s a synthetic companion designed to observ
 [XM430-W350](https://emanual.robotis.com/docs/en/dxl/x/xm430-w350/)
 
 [XM540-W270](https://emanual.robotis.com/docs/en/dxl/x/xm540-w270/)
-
-## ROBOTIS e-Manual for Communication Interface
-[U2D2](https://emanual.robotis.com/docs/en/parts/interface/u2d2/)
-
-[U2D2 Power Hub](https://emanual.robotis.com/docs/en/parts/interface/u2d2_power_hub/)
