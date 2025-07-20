@@ -13,6 +13,9 @@ At its core, Echo runs on the **Jetson Orin**, executing local AI workloads such
 Echo is more than just a robot—it’s a synthetic companion designed to observe, learn, and engage. Its architecture bridges physical embodiment with contextual intelligence, offering researchers and developers a flexible tool for exploring the future of collaborative robotics and embodied cognition.
 
 
+<img align="center" src="https://github.com/andreagavazzi/rakuda/blob/main/assets/IMG_0313.png"/>
+
+
 
 ## ROBOTIS e-Manual for DynamixelSDK
 [DynamixelSDK](https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/)
