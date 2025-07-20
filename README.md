@@ -1,6 +1,6 @@
-# Rakuda
+# Rakuda | Echo
 
-Rakuda | Echo is an integrated robotic platform purpose-built for data collection, operational training, and experimentation in human-centered environments.
+Echo is an integrated robotic platform purpose-built for data collection, operational training, and experimentation in human-centered environments.
 
 Equipped with **17 degrees of freedom**, Echo delivers a human-like range of motion, making it ideal for complex manipulation tasks. Its **dual 7-DOF arms**, powered by Dynamixel smart actuators, enable dexterous, anthropomorphic interaction with objects and tools. A motorized head with stereo vision provides precise 3D perception of the environment, supporting tasks that require spatial awareness, recognition, and responsive behavior.
 
