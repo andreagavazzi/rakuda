@@ -17,8 +17,7 @@ Echo is more than just a robot—it’s a synthetic companion designed to observ
 
 
 
-## ROBOTIS e-Manual for DynamixelSDK
-[DynamixelSDK](https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/)
+
 
 ## ROBOTIS e-Manual for DYNAMIXEL X-Series
 [XM430-W350](https://emanual.robotis.com/docs/en/dxl/x/xm430-w350/)
