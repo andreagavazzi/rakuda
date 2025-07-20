@@ -2,12 +2,13 @@
 
 Rakuda | Echo is an integrated robotic platform purpose-built for data collection, operational training, and experimentation in human-centered environments.
 
-Equipped with 17 degrees of freedom, Echo delivers a human-like range of motion, making it ideal for complex manipulation tasks. Its dual 7-DOF arms are designed for dexterous, anthropomorphic interaction with objects and tools, while a motorized head with stereo vision enables accurate 3D perception of its surroundings—essential for navigation, recognition, and responsive behavior.
+Equipped with 17 degrees of freedom, Echo delivers a human-like range of motion, making it ideal for complex manipulation tasks. Its dual 7-DOF arms, powered by Dynamixel smart actuators, enable dexterous, anthropomorphic interaction with objects and tools. A motorized head with stereo vision provides precise 3D perception of the environment, supporting tasks that require spatial awareness, recognition, and responsive behavior.
 
-At its core, Echo is optimized for embedded intelligence. Powered by the Jetson Orin Nano, it runs local AI models for visual processing, speech synthesis, and real-time interaction. Fully integrated with ROS 2, the platform supports conversational APIs and multimodal perception, making it suitable for cognitive agent development, embodied AI research, and advanced human-robot interaction scenarios.
+Echo’s mechanical structure is composed of custom 3D-printed components, allowing for rapid prototyping, modular customization, and a lightweight yet robust design.
 
-Echo is more than just a robot—it’s a synthetic companion designed to observe, learn, and engage. Its architecture bridges physical embodiment with contextual intelligence, offering researchers and developers a flexible tool for studying embodied cognition, collaborative robotics, and machine learning in dynamic settings.
+At its core, Echo runs on the Jetson Orin Nano, executing local AI workloads such as computer vision, speech synthesis, and real-time multimodal interaction. Fully compatible with ROS 2, the platform integrates seamlessly with conversational APIs and embodied AI agents, making it suitable for advanced human-robot interaction, cognitive research, and educational robotics.
 
+Echo is more than just a robot—it’s a synthetic companion designed to observe, learn, and engage. Its architecture bridges physical embodiment with contextual intelligence, offering researchers and developers a flexible tool for exploring the future of collaborative robotics and embodied cognition.
 
 
 ## ROBOTIS e-Manual for DynamixelSDK
